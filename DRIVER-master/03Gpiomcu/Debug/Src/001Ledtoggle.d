@@ -1,0 +1,7 @@
+Src/001Ledtoggle.o: ../Src/001Ledtoggle.c \
+ C:/stm32_project/03Gpiomcu/driver/inc/stm32f407gpio_driver.h \
+ C:/stm32_project/03Gpiomcu/driver/inc/stm32f407xx.h
+
+C:/stm32_project/03Gpiomcu/driver/inc/stm32f407gpio_driver.h:
+
+C:/stm32_project/03Gpiomcu/driver/inc/stm32f407xx.h:
